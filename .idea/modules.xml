@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BilanganPrima/BilanganPrima.iml" filepath="$PROJECT_DIR$/BilanganPrima/BilanganPrima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaktorPembagi/FaktorPembagi.iml" filepath="$PROJECT_DIR$/FaktorPembagi/FaktorPembagi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HitungMean/HitungMean.iml" filepath="$PROJECT_DIR$/HitungMean/HitungMean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kalkulator/Kalkulator.iml" filepath="$PROJECT_DIR$/Kalkulator/Kalkulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJava.iml" filepath="$PROJECT_DIR$/LearnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Looping/Looping.iml" filepath="$PROJECT_DIR$/Looping/Looping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Luas_Bangun_Datar/OOP_Luas_Bangun_Datar.iml" filepath="$PROJECT_DIR$/OOP_Luas_Bangun_Datar/OOP_Luas_Bangun_Datar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Luas_Bangun_Ruang/OOP_Luas_Bangun_Ruang.iml" filepath="$PROJECT_DIR$/OOP_Luas_Bangun_Ruang/OOP_Luas_Bangun_Ruang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+    </modules>
+  </component>
+</project>

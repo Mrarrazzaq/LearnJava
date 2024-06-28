@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de64d8bb-694a-48c6-91be-b8c0732367a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BilanganPrima/BilanganPrima.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaktorPembagi/FaktorPembagi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalkulator/Kalkulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalkulator/src/Kalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalkulator/src/Pembagian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalkulator/src/Pengurangan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalkulator/src/Penjumlahan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalkulator/src/Perkalian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Looping/Looping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Luas_Bangun_Datar/OOP_Luas_Bangun_Datar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Luas_Bangun_Datar/src/Persegi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Luas_Bangun_Datar/src/PersegiPanjang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Luas_Bangun_Datar/src/Segitiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Luas_Bangun_Ruang/OOP_Luas_Bangun_Ruang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Luas_Bangun_Ruang/src/Balok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Luas_Bangun_Ruang/src/Kubus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Luas_Bangun_Ruang/src/Tabung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2iV8iCCRLp9sC8ym1Pvg4RtQkBf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mrarr/IdeaProjects/LearnJava/OOP_Luas_Bangun_Ruang/src",
+    "onboarding.tips.debug.path": "C:/Users/mrarr/IdeaProjects/LearnJava/HitungMean/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mrarr\IdeaProjects\LearnJava\OOP_Luas_Bangun_Ruang\src" />
+      <recent name="C:\Users\mrarr\IdeaProjects\LearnJava\OOP_Luas_Bangun_Datar\src" />
+      <recent name="C:\Users\mrarr\IdeaProjects\LearnJava\Kalkulator\src" />
+      <recent name="C:\Users\mrarr\IdeaProjects\LearnJava\Kalkulator" />
+      <recent name="C:\Users\mrarr\IdeaProjects\LearnJava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="FizzBuzz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OOP_Luas_Bangun_Datar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OOP_Luas_Bangun_Ruang" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Palindrome" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HitungMean" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de64d8bb-694a-48c6-91be-b8c0732367a0" name="Changes" comment="" />
+      <created>1719564510268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719564510268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Kalkulator/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOP_Luas_Bangun_Ruang/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOP_Luas_Bangun_Datar/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
