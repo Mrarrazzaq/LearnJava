@@ -1,0 +1,2 @@
+public class TestMitech2 {
+}

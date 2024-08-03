@@ -3,26 +3,24 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
         System.out.println("Masukan Angka ");
         int angka = scan.nextInt();
-        if (Prima(angka)) {
-            System.out.println(angka + " Adalah bilangan prima");
-        } else {
-            System.out.println(angka + " Bukan bilangan prima");
-        }
-    }
 
-    public static boolean Prima(int angka) {
         if (angka <= 1) {
-            return false;
+            System.out.println(angka + " Bukan Bilangan Prima");
         } else {
-            for (int i = 2; i <= angka / 2; i++) {
+            boolean BilPrima = true;
+            for (int i = 2; i <= Math.sqrt(angka); i++) {
                 if (angka % i == 0) {
-                    return false;
+                    BilPrima = false;
+                    break;
                 }
             }
-            return true;
+            if (BilPrima) {
+                System.out.println(angka + " Adalah Bilangan Prima");
+            } else {
+                System.out.println(angka + " Bukan Bilangan Prima");
+            }
         }
     }
 }
