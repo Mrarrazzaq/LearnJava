@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de64d8bb-694a-48c6-91be-b8c0732367a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Best Time to Buy and Sell Stock/Best Time to Buy and Sell Stock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhile/DoWhile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MIGTest/AB/AB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MIGTest/Latihan1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MIGTest/No2/No2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MIGTest/Square/Square.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/No1/No1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperasiStringArray/OperasiStringArray.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BilanganPrima/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BilanganPrima/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperasiStringArray/src/Baru.java" beforeDir="false" afterPath="$PROJECT_DIR$/OperasiStringArray/src/Baru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperasiStringArray/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/OperasiStringArray/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestMitech2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,33 +35,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Baru.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CekHurufBerulang.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CekHurufBerulang2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CekNamaDuplikat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KataDenganHurufGanda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KataPErtamaTerpanjangArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TampilkanKataPertamaTerpanjang.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrarr/Documents/Template-Selenium&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mrarr/IdeaProjects/LearnJava/Test2/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Baru.executor": "Run",
+    "Application.CekAngkaBerulang.executor": "Run",
+    "Application.CekHurufBerulang.executor": "Run",
+    "Application.CekHurufBerulang2.executor": "Run",
+    "Application.CekInputBerulang.executor": "Run",
+    "Application.CekNamaDuplikat.executor": "Run",
+    "Application.ComparePosisiArray.executor": "Run",
+    "Application.KataDenganHurufGanda.executor": "Run",
+    "Application.KataPErtamaTerpanjangArray.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.StringIndex.executor": "Run",
+    "Application.TampilkanKataPertamaTerpanjang.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mrarr/Documents",
+    "onboarding.tips.debug.path": "C:/Users/mrarr/IdeaProjects/LearnJava/Test2/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mrarr\IdeaProjects\LearnJava\OOP_Luas_Bangun_Ruang\src" />
@@ -77,31 +78,31 @@
       <recent name="C:\Users\mrarr\IdeaProjects\LearnJava" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="CekHurufBerulang2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CekHurufBerulang2" />
+  <component name="RunManager" selected="Application.CekInputBerulang">
+    <configuration name="Baru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baru" />
       <module name="OperasiStringArray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataDenganHurufGanda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KataDenganHurufGanda" />
+    <configuration name="CekAngkaBerulang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CekAngkaBerulang" />
       <module name="OperasiStringArray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataPErtamaTerpanjangArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KataPErtamaTerpanjangArray" />
+    <configuration name="CekInputBerulang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CekInputBerulang" />
       <module name="OperasiStringArray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="FizzBuzz" />
+    <configuration name="ComparePosisiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparePosisiArray" />
+      <module name="OperasiStringArray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CekInputBerulang" />
+        <item itemvalue="Application.ComparePosisiArray" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.KataPErtamaTerpanjangArray" />
-        <item itemvalue="Application.CekHurufBerulang2" />
-        <item itemvalue="Application.KataDenganHurufGanda" />
+        <item itemvalue="Application.Baru" />
+        <item itemvalue="Application.CekAngkaBerulang" />
       </list>
     </recent_temporary>
   </component>
